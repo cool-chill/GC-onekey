@@ -1,6 +1,7 @@
+# 脚本已失效，本作者不再维护，请根据[Grasscutters](https://github.com/Grasscutters/Grasscutter)项目进行修改适配再使用
 ## GC-onekey
 
-脚本是根据[ioi](https://www.1ioi.cn/)改写，同步[Grasscutters](https://github.com/Grasscutters/Grasscutter)项目，想要自定义其他版本请自行Fork
+脚本同步[Grasscutters](https://github.com/Grasscutters/Grasscutter)项目，想要自定义其他版本请自行Fork
 
 
 ### 一键部署
@@ -31,6 +32,5 @@ yum install wget -y && wget https://ghproxy.com/https://github.com/cool-chill/GC
 
 ### Thanks
 
-[ioi](https://www.1ioi.cn/)
 [Grasscutters](https://github.com/Grasscutters/Grasscutter)
 [GitHub Proxy](https://ghproxy.com/)
